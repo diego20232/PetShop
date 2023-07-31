@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#colorfont{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(252, 0, 0);
+    padding: 10px;
+}
+
+.font{
+    text-align: center;
+    margin: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
+}
+
+h2{
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.table-bordered{
+    padding: 100px;
+}
+
+#carouselExampleIndicators{
+    margin: 0%;
+    padding: 0;
+    display: flex;
+    width: 600px; 
+}
+
+section{
+    padding: 13px;
+    background-color: rgb(92, 80, 65);
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+body{
+    background-color: rgb(194, 187, 173);
+}
+
+h1{
+    margin:0px;
+}
+
+#petshop{
+    font-family: monospace;
+}
+
+
